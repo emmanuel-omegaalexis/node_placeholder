@@ -1,5 +1,3 @@
-I have updated the **Section 6 (Process Management with PM2)** to specifically highlight the command for Python applications. This makes it clear to students how to handle different runtimes.
-
 ---
 
 # Lesson: Ubuntu Server Setup, Deployment, and Reverse Proxy
